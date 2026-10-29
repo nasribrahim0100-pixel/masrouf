@@ -1,0 +1,14 @@
+{
+  "appId": "com.masrouf.app",
+  "appName": "المصروف",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#f3f2f2"
+  },
+  "plugins": {
+    "SystemBars": {
+      "insetsHandling": "css",
+      "style": "LIGHT"
+    }
+  }
+}
